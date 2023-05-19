@@ -1,0 +1,19 @@
+Book Title: The Great Gatsby
+Author: F. Scott Fitzgerald
+Genre: Fiction
+Publication Year: 1925
+
+Book Title: To Kill a Mockingbird
+Author: Harper Lee
+Genre: Fiction
+Publication Year: 1960
+
+Book Title: 1984
+Author: George Orwell
+Genre: Fiction
+Publication Year: 1949
+
+Book Title: The Catcher in the Rye
+Author: J.D. Salinger
+Genre: Fiction
+Publication Year: 1951
